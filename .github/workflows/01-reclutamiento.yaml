@@ -6,3 +6,9 @@ jobs:
         steps:
             - name: el agente se presenta
               run: echo "El agente se presenta"
+            - name: Reporte de identeidad
+              run: |
+                  echo "Reporte de identidad"
+                  echo "Nombre: Juan Perez"
+                  echo "Edad: 30"
+                  echo "Experiencia: 5 años en ventas"
