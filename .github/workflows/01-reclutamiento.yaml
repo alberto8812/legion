@@ -18,3 +18,12 @@ jobs:
                   echo "Repositorio: ${{github.repository}}"
                   echo "Evento: ${{github.sha}}"
                   echo "Metadata: ${{tojson(github)}}"
+            - name: Capacidades del agente
+              run: |
+                  echo "capacidades detectadas:"
+                  echo "sistema operaticos: Linux, Windows, MacOS"
+                  uname: -a
+                  echo "lenguajes de programacion: Python, JavaScript, Java, C++"
+                  node --version
+                  python --version
+                  git --version
