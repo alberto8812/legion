@@ -22,7 +22,7 @@ jobs:
               run: |
                   echo "capacidades detectadas:"
                   echo "sistema operaticos: Linux, Windows, MacOS"
-                  uname: -a
+                  uname -a
                   echo "lenguajes de programacion: Python, JavaScript, Java, C++"
                   node --version
                   python --version
