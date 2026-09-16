@@ -4,7 +4,7 @@ on: push
 
 jobs:
   acceso-a-la-base:
-  runs-on: ubinto-latest
+  runs-on: ubunto-latest
   
   steps:
       - name: El agente llega a la fortaliza
@@ -14,4 +14,3 @@ jobs:
           echo "buscar los archivos de la legion "
           ls -la
           echo ""
-          
