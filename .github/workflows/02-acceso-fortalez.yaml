@@ -1,16 +1,16 @@
 name: Acceso a la fortaleza
 
-on: 
+on:
   workflow_dispatch:
 
 jobs:
   acceso-a-la-base:
-  runs-on: ubunto-latest
-  
-  steps:
-      - name: El agente llega a la fortaliza
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: El agente llega a la fortaleza
         run: |
-          echo "Agente {{github.actor}} llega a la fortaleza" 
+          echo "Agente ${{ github.actor }} llega a la fortaleza"
           echo ""
           echo "buscar los archivos de la legion "
           ls -la
@@ -22,7 +22,7 @@ jobs:
 
       - name: ahora si ver los panes
         run: |
-          echo "Agente {{github.actor}} llega a la fortaleza" 
+          echo "Agente ${{ github.actor }} llega a la fortaleza"
           echo ""
           echo "buscar los archivos de la legion "
           ls -la
@@ -31,5 +31,5 @@ jobs:
           echo "Planes:"
           echo "villanos:"
           ls miembros/
-          echos "Inteligencia:"
+          echo "Inteligencia:"
           ls inteligencia/
