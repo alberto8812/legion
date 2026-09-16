@@ -1,0 +1,17 @@
+name: Acceso a la fortaleza
+
+on: push
+
+jobs:
+  acceso-a-la-base:
+  runs-on: ubinto-latest
+  
+  steps:
+      - name: El agente llega a la fortaliza
+        run: |
+          echo "Agente {{github.actor}} llega a la fortaleza" 
+          echo ""
+          echo "buscar los archivos de la legion "
+          ls -la
+          echo ""
+          
