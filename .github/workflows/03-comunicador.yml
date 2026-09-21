@@ -42,6 +42,12 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Imprimir inputs
+        run: |
+          echo "imputs:"
+          echo " "
+          echo "villano: ${{inputs.villano}}"
+          echo "villano: ${{inputs.mensaje}}"
+          echo "villano: ${{inputs.prioridad}}"
+
 
