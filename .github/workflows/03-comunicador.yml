@@ -8,9 +8,9 @@ on:
     inputs:
       villano:
         description: "que villano envia el mensaje?"
-        requiered: true
+        required: true
         type: choice
-        option:
+        options:
           - lex luthor
           - Magneto
           - Lex luthor
