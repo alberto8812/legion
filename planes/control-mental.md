@@ -9,6 +9,11 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 3. Aplica el efecto del plan de control mental según las reglas del juego.
 4. Registra el uso del plan de control mental en tu hoja de personaje o en el registro del juego.
 
-## Plan de escape
+## Concepto general
 
-**rutas de escape**: Identifica y marca rutas de escape seguras para los personajes en caso de que sea necesario retirarse rápidamente del área afectada por el control mental.
+Si no podemos vencer a Superman con fuerza, lo reemplazamos. Un clon de Superman con los mismos poderes pero leal a la Legión podría:
+
+- Tomar decisiones desastrosas como miembro de la Liga
+- Filtrar la ubicación de la Baticueva, la Atalaya y las bases de los Vengadores
+- Desmoralizar al mundo cuando "Superman" los traicione en vivo
+- Enfrentar al Superman real si es necesario

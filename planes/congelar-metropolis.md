@@ -11,6 +11,11 @@ El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y preser
 5. **Mantenimiento del estado congelado**: Una vez que la ciudad esté congelada, realiza inspecciones periódicas para garantizar que el estado de congelación se mantenga y que no haya daños en la infraestructura.
 6. **Descongelación controlada**: Cuando sea necesario descongelar la ciudad, sigue un protocolo seguro para restaurar el flujo normal de tiempo y actividad, asegurándote de que todos los sistemas vuelvan a funcionar correctamente.
 
-## Plan de escape
+## Concepto general
 
-1. **Rutas de evacuación**: Identifica y marca rutas de evacuación seguras para los ciudadanos en caso de que sea necesario descongelar la ciudad rápidamente.
+Si no podemos vencer a Superman con fuerza, lo reemplazamos. Un clon de Superman con los mismos poderes pero leal a la Legión podría:
+
+- Tomar decisiones desastrosas como miembro de la Liga
+- Filtrar la ubicación de la Baticueva, la Atalaya y las bases de los Vengadores
+- Desmoralizar al mundo cuando "Superman" los traicione en vivo
+- Enfrentar al Superman real si es necesario

@@ -10,8 +10,11 @@ Estos son los planes para destruir el mundo:
 5. Controlar los recursos esenciales como el agua y los alimentos, creando escasez y caos en la población mundial.
 6. Difundir propaganda y desinformación para sembrar el miedo y la desconfianza entre las naciones, debilitando la cooperación internacional.
 
-## Plan de escape
+## Concepto general
 
-1. **Rutas de evacuación**: Identifica y marca rutas de evacuación seguras para los ciudadanos en caso de que sea necesario salir del área afectada por los planes de destrucción.
-2. **Puntos de reunión**: Establece puntos de reunión seguros donde los ciudadanos puedan encontrarse en caso de emergencia.
-3. **Comunicación de emergencia**: Implementa canales de comunicación de emergencia para coordinar las acciones de evacuación y proporcionar información actualizada sobre la situación.
+Si no podemos vencer a Superman con fuerza, lo reemplazamos. Un clon de Superman con los mismos poderes pero leal a la Legión podría:
+
+- Tomar decisiones desastrosas como miembro de la Liga
+- Filtrar la ubicación de la Baticueva, la Atalaya y las bases de los Vengadores
+- Desmoralizar al mundo cuando "Superman" los traicione en vivo
+- Enfrentar al Superman real si es necesario
