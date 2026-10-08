@@ -22,6 +22,17 @@ on:
         required: true
         default: "la mision fue un exito"
 
+      cow:
+        description: "tipo de vaca"
+        required: true
+        type: choice
+        options:
+          - eyes
+          - tux
+          - dragon
+          - ghostbusters
+          - cheese
+
       prioridad:
         description: "Nivel de prioridad"
         required: true
@@ -57,7 +68,7 @@ jobs:
           echo "Fecha: $(date -u + "%d/%m/%y %H:%M UTC")"
           echo "================================"
           echo "---- mensaje -----"
-          cowsay -f  eyes "${{inputs.mensaje}}"
+          cowsay -f  ${{inputs.cow}} "${{inputs.mensaje}}"
           echo "================================"
           echo "---${inputs.villano}---"
           echo "..."
