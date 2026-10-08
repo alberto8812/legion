@@ -33,7 +33,7 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 if ls planes/*.md 1>/dev/null 2>&1; then
   for plan in planes/*.md; do
     NOMBRE_PLAN=$(basename "$plan" .md)
-    if ! grep -q "## Plan de escape" "$plan"; then
+    if  grep -q "## Plan de escape" "$plan"; then
       echo "  ❌ $NOMBRE_PLAN — NO tiene plan de escape."
       echo "     → Rechazado por el Consejo. ¿Quieres que te atrape Batman?"
       ERRORES=$((ERRORES + 1))
