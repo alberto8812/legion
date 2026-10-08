@@ -84,4 +84,9 @@ Un solo disparo del rayo criogénico reduce la temperatura de una ciudad de 1 mi
 
 - _"Es la misión más ambiciosa de la Legión. Si funciona, ganamos. Si falla, necesitaremos un nuevo planeta."_ — Lex Luthor
 - _"Propongo que la demostración sea sobre Themyscira. Quiero ver la cara de Wonder Woman."_ — Magneto
-- _"Childish. Pero aprobado."_ — Brainiac
+
+## Plan de escape
+
+- **Si el clon es descubierto:** activar autodestrucción del clon (se desintegra en 60 segundos)
+- **Si Superman escapa de la celda:** evacuación inmediata de la Fortaleza Prohibida. Magneto y Doctor Doom contienen a Superman mientras el resto escapa.
+- **Si el clon se rebela:** ... Brainiac dice que el chip de control funcionará. Lex Luthor no está tan seguro.
