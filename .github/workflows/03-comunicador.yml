@@ -23,15 +23,13 @@ on:
         default: "la mision fue un exito"
 
       prioridad:
-          description: "Nivel de prioridad"
-          required: true
-          type: choice
-          options:
-            - Normal
-            - Alta
-            - Critica
-
-
+        description: "Nivel de prioridad"
+        required: true
+        type: choice
+        options:
+          - Normal
+          - Alta
+          - Critica
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -42,12 +40,24 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      #ejecutar una intalacion en la maquina
+      - name: Instalar el tranmisor de la Legion
+        run: sudo apt-get install -y cowsay
+
       - name: Imprimir inputs
         run: |
+          echo "================================"
+          echo "       Tranmision interceptada: "
+          echo "================================"
           echo "imputs:"
           echo " "
           echo "villano: ${{inputs.villano}}"
           echo "villano: ${{inputs.mensaje}}"
           echo "villano: ${{inputs.prioridad}}"
-
-
+          echo "Fecha: $(date -u + "%d/%m/%y %H:%M UTC")"
+          echo "================================"
+          echo "---- mensaje -----"
+          cowsay -f  eyes "${{inputs.mensaje}}"
+          echo "================================"
+          echo "---${inputs.villano}---"
+          echo "..."
