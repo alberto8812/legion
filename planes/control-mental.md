@@ -8,3 +8,7 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 2. Asegúrate de tener suficientes puntos de control mental para activar el plan.
 3. Aplica el efecto del plan de control mental según las reglas del juego.
 4. Registra el uso del plan de control mental en tu hoja de personaje o en el registro del juego.
+
+## Plan de escape
+
+**rutas de escape**: Identifica y marca rutas de escape seguras para los personajes en caso de que sea necesario retirarse rápidamente del área afectada por el control mental.
