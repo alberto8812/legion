@@ -20,3 +20,8 @@ Spider-Man is a fictional superhero that appears in American comic books publish
 - **Mary Jane Watson** — Peter Parker's love interest and a key character in his personal life.
 - **Aunt May** — Peter Parker's aunt and a maternal figure in his life, often providing guidance and support.
 - **J. Jonah Jameson** — The editor-in-chief of the Daily Bugle, a newspaper that frequently criticizes Spider-Man and portrays him as a menace to society.
+
+
+## Estrategia recomendada
+
+**Evitar que Spider-Man se involucre en operaciones críticas de la Legión.**
